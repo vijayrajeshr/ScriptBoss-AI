@@ -1,6 +1,7 @@
 # ScriptBoss AI 
 
-<img width="1468" height="929" alt="image" src="https://github.com/user-attachments/assets/4565441d-c77d-4eb7-b013-bbc233e8c6c3" />
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/c00d2d3c-80ba-46ec-9489-d53bf9b4c1d1" />
+
 
 <img width="812" height="283" alt="image" src="https://github.com/user-attachments/assets/0b4e8950-4dc4-4753-a393-68c37040b3e6" />
 
