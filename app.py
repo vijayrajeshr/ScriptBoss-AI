@@ -57,7 +57,7 @@ def retrieve_node(state: GraphState):
 def grade_context_node(state: GraphState):
     """The Auditor: Checks if the pulled data actually answers the prompt."""
     print("🤖 [Node: Grader] Auditing data relevance...")
-    llm = ChatOpenRouter(model="google/gemini-2.5-flash", temperature=0.0)
+    llm = ChatOpenRouter(model="nvidia/nemotron-3-super-120b-a12b:free", temperature=0.0)
     
     grader_prompt = """
     Analyze the following retrieved context and decide if it contains enough information to answer the user query.
@@ -78,7 +78,7 @@ def grade_context_node(state: GraphState):
 def query_rewrite_node(state: GraphState):
     """The Optimizer: Rewrites the question to search better if the first pass failed."""
     print("⚠️ [Node: Rewriter] Search failed to find good data. Optimizing query keywords...")
-    llm = ChatOpenRouter(model="google/gemini-2.5-flash", temperature=0.5)
+    llm = ChatOpenRouter(model="nvidia/nemotron-3-super-120b-a12b:free", temperature=0.5)
     
     rewrite_prompt = """
     The search query '{query}' failed to extract accurate documentation context. 
