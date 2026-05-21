@@ -1,4 +1,18 @@
-# 🎙️ ScriptBoss AI
+# ScriptBoss AI 
+
+<img width="1468" height="929" alt="image" src="https://github.com/user-attachments/assets/4565441d-c77d-4eb7-b013-bbc233e8c6c3" />
+
+<img width="812" height="283" alt="image" src="https://github.com/user-attachments/assets/0b4e8950-4dc4-4753-a393-68c37040b3e6" />
+
+<img width="936" height="483" alt="image" src="https://github.com/user-attachments/assets/478fd699-aee9-43ff-89d8-e7f0b52ff9ad" />
+
+<img width="1158" height="684" alt="image" src="https://github.com/user-attachments/assets/3cd2e27d-7641-4e35-a9a2-4791e309b2fe" />
+
+<img width="1696" height="755" alt="image" src="https://github.com/user-attachments/assets/a1ec7415-a223-4e54-8f6d-f13ed737a617" />
+
+
+
+
 
 **ScriptBoss AI** is an autonomous, serverless-ready multi-agent RAG pipeline designed to ingest complex technical documents and synthesize them into highly engaging, conversational two-person podcast scripts.
 
