@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+langchain-openrouter
+python-dotenv
+numpy
+pypdf
+streamlit
