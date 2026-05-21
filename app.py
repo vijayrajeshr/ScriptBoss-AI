@@ -92,7 +92,7 @@ def query_rewrite_node(state: GraphState):
 def generate_podcast_node(state: GraphState):
     """The Creative Writer: Turns raw technical data into a podcast script."""
     print("🎨 [Node: Writer] Crafting a conversational script...")
-    llm = ChatOpenRouter(model="google/gemini-2.5-flash", temperature=0.7)
+    llm = ChatOpenRouter(model="nvidia/nemotron-3-super-120b-a12b:free", temperature=0.7)
     
     script_prompt = """
     You are a podcast writer. Create an entertaining, fast-paced dialogue between two hosts, Alex and Sam. 
