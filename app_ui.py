@@ -4,7 +4,7 @@ from app import app
 st.set_page_config(page_title="ScriptBoss AI", page_icon="🎙️", layout="centered")
 
 st.title("ScriptBoss AI")
-st.subheader("LangGraph RAG Pipeline with Self-Correction for Podcast Script Generation")
+st.subheader("LangChain + LangGraph + RAG Pipeline with Self-Correction for Podcast Script Generation")
 st.write("Upload text, define a topic, and watch a multi-agent LangGraph RAG pipeline self-correct to generate an audio script.")
 
 st.divider()
