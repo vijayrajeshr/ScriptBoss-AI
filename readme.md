@@ -1,4 +1,4 @@
-# 🎙️ ScriptBoss AI
+# ScriptBoss AI
 
 **ScriptBoss AI** is an autonomous, serverless-ready multi-agent RAG pipeline designed to ingest complex technical documents and synthesize them into highly engaging, conversational two-person podcast scripts.
 
